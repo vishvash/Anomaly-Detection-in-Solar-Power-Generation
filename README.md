@@ -34,8 +34,8 @@ This project is a **Streamlit-based application** for detecting anomalies in sol
 
 1. **Clone this repository**:  
    ```bash
-   git clone https://github.com/your-repo-name/solar-anomaly-detection.git
-   cd solar-anomaly-detection
+   git clone https://github.com/vishvash/Anomaly-Detection-in-Solar-Power-Generation.git
+   cd Anomaly-Detection-in-Solar-Power-Generation
 
 2. **Run the Streamlit application:**
    ```bash
@@ -115,3 +115,5 @@ This project is a **Streamlit-based application** for detecting anomalies in sol
 - Add support for **real-time anomaly detection**.
 - Incorporate additional models for **comparative analysis**.
 - Enhance visualizations with more **interactive plots**.
+
+[![Video Title](https://img.youtube.com/vi/Esyq6kJMl2w/0.jpg)](https://www.youtube.com/watch?v=Esyq6kJMl2w)
